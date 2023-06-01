@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-* 🌍  I'm based in St. Petersburg
+* 🌍  I'm based in St. Petersburg, Russia
 * 📫  You can text me: [t.me/tati_trif](https://t.me/tati_trif)
 * ✉️  You can mail me:  [tatitrif@mail.ru](mailto:tatitrif@mail.ru)
  
