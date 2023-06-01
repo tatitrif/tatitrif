@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br />
 **📫 How to reach me:**
 - mail me tatitrif@mail.ru
-- text me [@tati_trif][https://t.me/tati_trif]
+- text me [@tati_trif](https://t.me/tati_trif  "@tati_trif")
 <br />
 <br />
 
