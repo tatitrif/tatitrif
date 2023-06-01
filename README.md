@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 -->
 - 📫 How to reach me: https://t.me/tati_trif
 
- 
-<br />
-<br />
-
 ### Technology stack
 
 **Back-end**
