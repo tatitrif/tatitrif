@@ -1,4 +1,5 @@
-### Hi there, I'm Tatiana 👋
+Hi 👋 My name is Tatiana
+=========================
 
 <!--
 **tatitrif/tatitrif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 📫 How to reach me: https://t.me/tati_trif
+* 🌍  I'm based in St. Petersburg
+* 📫  You can text me: https://t.me/tati_trif
+* ✉️  You can mail me:  [tatitrif@mail.ru](mailto:tatitrif@mail.ru)
+ 
 
 ### Technology stack
 
