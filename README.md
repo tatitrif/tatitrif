@@ -14,13 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br />
-<br />
-📫 How to reach me:
-mail me tatitrif@mail.ru
-text me https://t.me/tati_trif
+- 📫 How to reach me:https://t.me/tati_trif
 
-[![Badge](https://ucrm99m8og96.runkit.sh)](https://git.io/gradi
+ 
 <br />
 <br />
 
