@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 * 🌍  I'm based in St. Petersburg
-* 📫  You can text me: https://t.me/tati_trif
+* 📫  You can text me: [t.me/tati_trif](https://t.me/tati_trif)
 * ✉️  You can mail me:  [tatitrif@mail.ru](mailto:tatitrif@mail.ru)
  
 
