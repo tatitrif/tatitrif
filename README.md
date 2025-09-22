@@ -20,6 +20,6 @@
 * Testing: PyTest, Postman, manual 
 * Storage: Oracle/Postgres/SQLite (PL, raw SQL, SqlAlchemy, Alembic), Radis
 * Tools: Git, Docker, Docker Compose, Nginx, Apache
-* Technology: JWT, REST, WebSocket, Pydantic
-* Web Frameworks: Django, FastAPI, Aiogram, Telethon, pyQT6 
+* Technology: JWT, REST, WebSocket
+* Lib & Frameworks: Django, FastAPI, Pydantic, Aiogram, Telethon, pyQT6 
 * Other: bash, pnpm
