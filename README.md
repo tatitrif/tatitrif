@@ -18,8 +18,8 @@
 * Backend: Python≤3.12 (PEP, Type Hint, linting, async)
 * Frontend: Html5, CSS3, SCSS, Bootstrap, JS
 * Testing: PyTest, Postman, manual 
-* Storage: Oracle/Postgres (PL/SQL, row SQL, SqlAlchemy), Radis, Elasticsearch, s3
+* Storage: Oracle/Postgres/SQLite (PL, raw SQL, SqlAlchemy, Alembic), Radis
 * Tools: Git, Docker, Docker Compose, Nginx, Apache
-* Technology: JWT, REST, WebSocket
-* Web Frameworks: Django, FastAPI	
+* Technology: JWT, REST, WebSocket, Pydantic
+* Web Frameworks: Django, FastAPI, Aiogram, Telethon, pyQT6 
 * Other: bash, pnpm
