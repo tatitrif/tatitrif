@@ -16,10 +16,10 @@
 **Technology stack**
 
 * Backend: Python≤3.12 (PEP, Type Hint, linting, async)
-* Frontend: Html5, CSS3, SCSS, Bootstrap, JS
-* Testing: PyTest, Postman, manual 
+* Lib & Frameworks: Django, FastAPI, Pydantic, Aiogram, Telethon, pyQT6
+* Technology: JWT, REST, WebSocket 
 * Storage: Oracle/Postgres/SQLite (PL, raw SQL, SqlAlchemy, Alembic), Radis
+* Testing: PyTest, Postman, manual 
+* Frontend: Html5, CSS3, SCSS, Bootstrap, JS
 * Tools: Git, Docker, Docker Compose, Nginx, Apache
-* Technology: JWT, REST, WebSocket
-* Lib & Frameworks: Django, FastAPI, Pydantic, Aiogram, Telethon, pyQT6 
 * Other: bash, pnpm
