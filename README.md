@@ -16,7 +16,7 @@
 **Technology stack**
 
 * Backend: Python≤3.12 (PEP, Type Hint, linting, async)
-* Lib & Frameworks: Django, FastAPI, Pydantic, Aiogram, Telethon, pyQT6
+* Lib & Frameworks: Django, FastAPI, Pydantic, Aiogram, Telethon, pyQT6, pandas
 * Technology: JWT, REST, WebSocket 
 * Storage: Oracle/Postgres/SQLite (PL, raw SQL, SqlAlchemy, Alembic), Radis
 * Testing: PyTest, Postman, manual 
